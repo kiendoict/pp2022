@@ -8,6 +8,5 @@ Students are expected to:
 
 Student Info
 =========================
-
 * Student Name: Do Trung Kien
 * Student ID: BI11-131
